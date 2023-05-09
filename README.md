@@ -1,6 +1,6 @@
 ## Hi there, I'm Cecilia 👋
 
-I recently completed a Diploma in Full Stack Software Development at the Code Institute and I hope you enjoy browsing through some of my recent projects. 
+Full Stack Software Developer currenlty doing Front-End development at a hedge fund. I hope you enjoy browsing through some of my recent projects. 
 
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/cecilia-l-91b03919b/)
 ____
